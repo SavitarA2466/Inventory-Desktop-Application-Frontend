@@ -1,1 +1,1 @@
-# Inventory-Desktop-Application-Frontend
+# Inventory Desktop Application Frontend
